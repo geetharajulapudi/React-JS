@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  margin: 100px;
+}
+
+.button > * {
+  margin-bottom: 30px;
+ 
+}
