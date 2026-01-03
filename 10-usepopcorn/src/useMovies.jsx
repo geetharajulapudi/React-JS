@@ -4,7 +4,7 @@ export function useMovies(query) {
   const [movies, setMovies] = useState([]);
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState("");
-  const KEY = "4df174c6";
+  const KEY = "your_api_key_here"; // Replace with your actual API key
 
   useEffect(
     function () {
