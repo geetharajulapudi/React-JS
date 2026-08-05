@@ -4,7 +4,7 @@ import { useMovies } from "./useMovies";
 import { useLocalStorageState } from "./useLocalStorageState";
 import { useKey } from "./useKey";
 
-const KEY = "******";
+// const KEY = "******";
 
 export default function App() {
   const [selectedId, setSelectedId] = useState(null);
