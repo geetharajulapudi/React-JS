@@ -32,9 +32,7 @@ export default function App() {
     setWatched((watched) => watched.filter((movie) => movie.imdbID !== id));
   }
 
-  // setting state in render logic cause the component to re-render itself again
-  // send infinite request to the API from the browser
-
+ 
   /*useEffect(function(){
     console.log("After initial render");
   },[])
