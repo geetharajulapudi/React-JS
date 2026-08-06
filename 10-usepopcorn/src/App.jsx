@@ -169,6 +169,9 @@ function Box({ children }) {
   );
 }
 
+ #sdfghjkl;l,mn
+
+
 function MovieList({ movies, onSelectMovie }) {
   return (
     <ul className="list">
