@@ -169,8 +169,6 @@ function Box({ children }) {
   );
 }
 
-#sabnm,smnmbdbasmbn
-
 function MovieList({ movies, onSelectMovie }) {
   return (
     <ul className="list">
