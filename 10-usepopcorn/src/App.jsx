@@ -170,6 +170,12 @@ function Box({ children }) {
 }
 
  #sdfghjkl;l,mnbv
+
+
+
+
+#hjklmn bvh
+
 function MovieList({ movies, onSelectMovie }) {
   return (
     <ul className="list">
