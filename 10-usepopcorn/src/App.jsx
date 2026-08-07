@@ -168,7 +168,7 @@ function Box({ children }) {
     </div>
   );
 }
-
+#fguiokjbnvbhjkl
 
 function MovieList({ movies, onSelectMovie }) {
   return (
